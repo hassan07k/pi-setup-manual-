@@ -11,10 +11,10 @@
 
 ## after you get in the pi open termninal and do these commands to get started!
 
-1. look after and install updates to all the programs that are installed
+# 1. look after and install updates to all the programs that are installed
 
-1. sudo apt update (look after updates)
-2. sudo apt update (install updates)
+# 1. sudo apt update (look after updates)
+# 2. sudo apt update (install updates)
 
 2. skur på ssh
 

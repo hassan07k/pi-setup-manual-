@@ -1,4 +1,4 @@
-# what you need to do when you start up a new pi
+## what you need to do when you start up a new pi
 1. choose which language you want the pi to be
 
 2. connect to your wife or use ethernet kable
@@ -9,7 +9,7 @@
 
 5. after that it will take a while to load to install it in
 
-# after you get in the pi open termninal and do these commands to get started!
+## after you get in the pi open termninal and do these commands to get started!
 
 1. look after and install updates to all the programs that are installed
 
